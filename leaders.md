@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Marco Lam](mailto:marco.lam@owasp.org)
+* [Windham Wong](mailto:windham.wong@owasp.org)

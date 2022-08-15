@@ -33,4 +33,5 @@ We are going to hold cybersecurity sharing for the start-up incubation tier asse
 
 If you are interested in this sharing session, please do not hesitate and apply now. Please stay tuned.
 
-{% include chapter_events.html group=page.meetup-group %}
+
+We are going to have our next meeting on 6 Dec 2022 via a online meeting tools. please join our Meet-up group and contact us for details. https://www.meetup.com/owasp-kowloon/

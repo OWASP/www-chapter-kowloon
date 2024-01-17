@@ -5,6 +5,7 @@ title: OWASP Kowloon
 tags: info
 level: 0
 region: Asia
+country: Hong Kong
 meetup-group: owasp-kowloon
 
 ---
